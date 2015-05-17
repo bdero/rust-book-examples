@@ -1,0 +1,8 @@
+[package]
+name = "rust-book-examples"
+version = "0.1.0"
+authors = ["Brandon DeRosier <bdero@mit.edu>"]
+
+[[bin]]
+name = "guessing_game"
+path = "src/learn-rust/guessing-game.rs"
