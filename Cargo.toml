@@ -9,3 +9,7 @@ rand = "*"
 [[bin]]
 name = "guessing_game"
 path = "src/learn-rust/guessing-game.rs"
+
+[[bin]]
+name = "dining-philosophers"
+path = "src/learn-rust/dining-philosophers.rs"
