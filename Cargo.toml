@@ -6,3 +6,6 @@ authors = ["Brandon DeRosier <bdero@mit.edu>"]
 [[bin]]
 name = "guessing_game"
 path = "src/learn-rust/guessing-game.rs"
+
+[dependencies]
+rand = "*"
